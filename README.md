@@ -1,4 +1,4 @@
-# -Workforce-Allocation-Project-Insights
+# Workforce-Allocation-Project-Insights
 
 **Duration:** Aug 2025 – Sep 2025 
 
