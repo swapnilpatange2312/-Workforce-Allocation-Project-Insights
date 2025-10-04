@@ -1,2 +1,14 @@
 # -Workforce-Allocation-Project-Insights
-This project focuses on analyzing employee and project data to generate actionable insights on workforce structure, project allocation, and seniority distribution. Using **Python** and **pandas**, messy datasets were cleaned, merged, and transformed into a structured format for analysis.  
+
+**Duration:** Aug 2025 – Sep 2025 
+
+🧹 Cleaned, merged, and prepared unorganized datasets by fixing missing or incorrect values.  
+
+ 🏷️ Created role-based classifications and identified employees working on multiple projects.
+  
+ 📊 Analyzed workforce distribution across roles, projects, and seniority levels.
+   
+ 🗂️ Converted raw data into an analysis-ready format for clear visibility into employee allocation, project coverage, and seniority mapping.
+  
+## Skills & Tools
+**Python · pandas · Data Cleaning · Data Analysis · Workforce Management**
